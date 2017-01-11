@@ -1,5 +1,5 @@
 /**
-* T-Mobile Data Collector API
+* Data Collector API
 * This application will use a create an API around a MySQL DB 
 */
 
