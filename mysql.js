@@ -11,7 +11,7 @@ var http = require('http');
 var app = express();
 app.use(express.static(__dirname));
 
-var host = '10.46.59.146';
+var host = '192.168.1.1';
 
 app.get('/', function (req, res) {
   res.sendFile('/DATA/devel/ssh/doc.html');
